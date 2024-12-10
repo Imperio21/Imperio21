@@ -7,10 +7,10 @@ Olá! Sou a Isabelle, desenvolvedora de software com 4 anos de experiência, apa
 ---
 
 ## 🛠️ Tecnologias e Habilidades  
-- **Linguagens:** JavaScript, TypeScript, Python, PHP  
-- **Front-end:** React.js, Next.js, WordPress  
-- **Back-end:** Node.js, REST, GraphQL  
-- **Outras ferramentas:** Docker, Git, MongoDB, PostgreSQL  
+- **Linguagens:** JavaScript, TypeScript.
+- **Front-end:** React.js, Next.js, WordPress. 
+- **Back-end:** Node.js, REST.
+- **Outras ferramentas:**  Git, MongoDB.
 
 ---
 
