@@ -33,8 +33,7 @@ Welcome to my little corner on GitHub! 🚀
 ---
 
 ## 📫 Onde me encontrar | Where to find me  
-- LinkedIn: [Seu Nome](https://linkedin.com/in/SeuPerfil)  
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+- LinkedIn: [Isabelle Império Alves de Nazareth](https://www.linkedin.com/in/isabelle-imperio/)  
 
 ---
 
