@@ -13,8 +13,8 @@ Welcome to my little corner on GitHub! 🚀
 ---
 
 ## 🛠️ Tecnologias | Tech Stack  
-- **Front-end:** React.js, TypeScript, JavaScript, WordPress.  
-- **Back-end:** Node.js, REST APIs.
+- **Front-end:** React.js, TypeScript, JavaScript, Next, WordPress.  
+- **Back-end:** Node.js, REST APIs, PHP.
 - **Extras:**  MongoDB, Jest, Redux.
 
 ---
